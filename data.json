@@ -1,0 +1,42 @@
+[
+    {
+"product_name": "Nova (Big)",
+"product_price": "₱60.00",
+"product_description": "A healthy mix of four wholesome grains  rolled into thin chips for that delightful nutty flavor.",
+"product_dateAdded": "2024-02-09",
+"product_Expirationdate": "2024-02-12"
+},
+{
+"product_name": "Chippy (Big)",
+"product_price": "₱60.00",
+"product_description": "It could be the original crunch that makes it everybody's favorite.",
+"product_dateAdded": "2024-02-09",
+"product_Expirationdate": "2024-06-24",
+"product_ExpirationDate": "2024-08-11"
+},
+{
+"product_name": "Chiz curls (Big)",
+"product_price": "₱45.00",
+"product_description": "Melt in your mouth,light and puffy curls coated in delicious cheese flavor.",
+"product_dateAdded": "2024-02-09",
+"product_Expirationdate":"2024-04-24",
+"product_ExpirationDate": "2024-07-14"
+},
+{
+ "product_name": "Pic-A (Big)",
+ "product_price": "₱75.00",
+ "product_description": "A huge variety of crisps,chips,crackers and popcorn is available in exciting flavors,from the simple salted to snacks flavored with cheese,spices and more.",
+ "product_dateAdded": "2024-02-09",
+ "product_Expirationdate": "2024-05-12",
+ "product_ExpirationDate": "2027-02-11"
+  
+},
+    {
+    "product_name": "Piattos (Big)",
+    "product_price": "₱60.00",
+    "product_description": "Made with real cheese, these crispy,crunchy crisps are perfect for satisfying your cheesy cravings.",
+    "product_dateAdded": "2024-02-08",
+    "product_Expirationdate": "2024-07-18"
+         
+          }
+    ]
