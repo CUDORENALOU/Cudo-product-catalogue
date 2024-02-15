@@ -4,39 +4,36 @@
 "product_price": "₱60.00",
 "product_description": "A healthy mix of four wholesome grains  rolled into thin chips for that delightful nutty flavor.",
 "product_dateAdded": "2024-02-09",
-"product_Expirationdate": "2024-02-12"
+"product_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbTJKyaP7aOfdbYPsPkCtzRQ2lG99EsfUvYQ&usqp=CAU"
 },
 {
 "product_name": "Chippy (Big)",
 "product_price": "₱60.00",
 "product_description": "It could be the original crunch that makes it everybody's favorite.",
 "product_dateAdded": "2024-02-09",
-"product_Expirationdate": "2024-06-24",
-"product_ExpirationDate": "2024-08-11"
+"product_image":"https://ever-supermarket2.myshopify.com/cdn/shop/products/100000068361-Chippy_Mild_and_Tasty_BBQ_110g-200911_25e086b2-be03-4da4-bd78-a132aed1451d_300x300.jpg?v=1684041347"
 },
 {
 "product_name": "Chiz curls (Big)",
 "product_price": "₱45.00",
 "product_description": "Melt in your mouth,light and puffy curls coated in delicious cheese flavor.",
 "product_dateAdded": "2024-02-09",
-"product_Expirationdate":"2024-04-24",
-"product_ExpirationDate": "2024-07-14"
+"product_image":"https://www.taquitos.net/im/sn/ChizCurls.jpg"
 },
 {
  "product_name": "Pic-A (Big)",
  "product_price": "₱75.00",
  "product_description": "A huge variety of crisps,chips,crackers and popcorn is available in exciting flavors,from the simple salted to snacks flavored with cheese,spices and more.",
  "product_dateAdded": "2024-02-09",
- "product_Expirationdate": "2024-05-12",
- "product_ExpirationDate": "2027-02-11"
+ "product_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1gDPU3UdJx_fXIHB6vL3IPK6aqGcwhWCFJw&usqp=CAU"
   
 },
-    {
+{
     "product_name": "Piattos (Big)",
     "product_price": "₱60.00",
     "product_description": "Made with real cheese, these crispy,crunchy crisps are perfect for satisfying your cheesy cravings.",
     "product_dateAdded": "2024-02-08",
-    "product_Expirationdate": "2024-07-18"
+    "product_image": "https://justasianfood.com/cdn/shop/products/Jackn_JillPiattosChipsCheesePartyPack7.48oz_front_300x.jpg?v=1634670027"
          
           }
     ]
